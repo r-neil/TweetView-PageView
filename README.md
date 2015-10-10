@@ -1,7 +1,7 @@
 # TweetView-PageView
 An app that pulls in the latest tweets from a twitter user.  The tweets are then displayed in a UIPageViewController. Up to five Tweets will be displayed.  
 
-<img  src="https://github.com/r-neil/TweetView-PageView/blob/master/README-Img/Screen.png" alt="screenshot" width="320" height="568">
+<img  src="https://github.com/r-neil/TweetView-PageView/blob/master/README-Img/Screen.png" alt="screenshot" width="320" height="568" border="1">
 
 
 #Requirements
